@@ -4,50 +4,28 @@ This is Web-Based Chat-Application developed using the MERN (MongoDB, Express.js
 
 | Live Demo Video Link For How Real-Time Messaging Working using Socket.io | Application Hosted Link |
 |---|---|
-|https://res.cloudinary.com/arvindkumar/video/upload/v1712558423/Chat-App/Live_Test_Chat-App_y9zvof.mp4|https://chat-application-4krm.onrender.com/|
 
----
-![Chat Application](frontend/src/assets/chat-app_2.png?raw=true "Chat-App Web Application")
----
----
-![Chat Application](frontend/src/assets/chat-app1.png?raw=true "Chat-App Web Application")
----
+- 🚀 **Real-time Messaging**: Instant chat with Socket.io
+- 🔐 **User Authentication**: Secure JWT-based authentication
+- 🟢 **Online Status**: Real-time online/offline indicators
+- 🎤 **Voice Messages**: Record and send voice notes
+- 📞 **Voice & Video Calling**: Full-featured calling system
+- 😀 **Emoji Support**: Rich emoji integration
+- 📎 **File Sharing**: Share images and documents
+- 🎨 **Theme Customization**: Multiple themes and backgrounds
+- 📱 **Responsive Design**: Works on all devices
+- ⚡ **Performance Optimized**: Code splitting and lazy loading
 
-## Features
+## 🚀 Quick Start
 
-- User authentication: Users can register and log in securely.
-- Real-time messaging: Users can chat with each other in real-time.
-- Responsive design: The app is responsive and works well on both desktop and mobile devices.
-- Live notifications for new incoming messages.
-- Online user facility indicating which users are currently online.
+### Prerequisites
+- Node.js 18+
+- MongoDB (local or Atlas)
+- Git
 
+### Installation
 
-## Technologies Used
-
-- MongoDB: NoSQL database for storing user data and chat messages.
-- Express.js: Web application framework for Node.js used to build the backend server.
-- React.js: JavaScript library for building user interfaces.
-- Node.js: JavaScript runtime environment for running server-side code.
-- Socket.io: Real-time engine for WebSockets to enable real-time communication between clients and server.
-- Tailwind/CSS: Markup and styling for the front end.
-
----
-
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/arvindk2025/Chat-Application
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd Chat-Application
-   ```
-
-3. Install dependencies for both frontend and backend
+1. **Clone the repository**
 > For frontend dependencies Go to the frontend folder `Package.json` file
   and see all dependencies for installation
 
